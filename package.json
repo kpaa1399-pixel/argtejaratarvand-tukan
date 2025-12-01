@@ -1,0 +1,26 @@
+{
+  "name": "targetjarat-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "داشبورد مدیریت ارگ تجارت اروند",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "bootstrap": "^5.3.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.17.0",
+    "react-scripts": "5.0.1"
+  },
+  "keywords": [],
+  "author": "مهدی سلمانی زاده",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
