@@ -7,8 +7,10 @@
     "dev": "nodemon app.js"
   },
   "dependencies": {
-    "express": "^4.18.2",
     "cors": "^2.8.5",
+    "crs": "^0.0.01",
+    "express": "^4.22.1",
+    "mongodb": "^7.0.0",
     "mongoose": "^7.0.3"
   },
   "devDependencies": {
