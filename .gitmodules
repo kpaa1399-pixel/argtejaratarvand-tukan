@@ -1,3 +1,7 @@
+[submodule "backend/frontend"]
+    path = backend/frontend
+    url = https://github.com/kpaa1399-pixel/frontend-tukan.git
+
 [submodule "backend/frontend/dashboard"]
-	path = backend/frontend
-	url = https://githob.com/OWNER/FRONtEND-REPO.git
+    path = backend/frontend/dashboard
+    url = https://github.com/kpaa1399-pixel/dashboard-tukan.git
